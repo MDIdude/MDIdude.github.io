@@ -1,0 +1,19 @@
+body {background-color: lightblue;
+		color: black;
+		font-size: 14pt;
+		font-family: 'Oswald', sans-serif;
+		width: 480}
+		
+h1 {font-size: 250%;
+font-weight: bold;
+color: black}
+
+h2 {font-size: 150%;
+	font-style: italic;
+	color: darkblue}
+	
+nav div {font-size: 75%;
+color: grey}
+
+nav pie {font-size: 50%}
+
